@@ -1,2 +1,3 @@
 gemini1.py
 *.pyc
+.DS_Store
